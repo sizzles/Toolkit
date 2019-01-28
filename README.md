@@ -22,6 +22,9 @@ https://github.com/louthy/language-ext
 MoreLINQ\
 https://github.com/morelinq/MoreLINQ
 
+Z.ExtensionMethods (documentation limited)\
+https://github.com/zzzprojects/Z.ExtensionMethods
+
 **Logging**
 
 Apache - Log4Net\
