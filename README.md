@@ -11,6 +11,9 @@ https://github.com/rickbergfalk/sqlpad
 Sonar Qube\
 https://www.sonarqube.org/
 
+BenchmarkDotNet\
+https://github.com/dotnet/BenchmarkDotNet
+
 **C# Language - Extensions, Types, Core Libraries**
 
 Louthy - language-ext\
