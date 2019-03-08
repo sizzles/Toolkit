@@ -21,6 +21,14 @@ https://nx.dev/
 Codelyzer - static code analysis \
 https://github.com/mgechev/codelyzer
 
+NgRx - reactive state for Angular, inspired by Redux\
+https://ngrx.io/
+
+Prime NG - UI components lib pack\
+https://www.primefaces.org/primeng/#/
+
+Firebase - Backend hosting for Mobile and web\
+https://firebase.google.com/
 
 **Database**
 
