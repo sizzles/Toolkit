@@ -40,6 +40,7 @@ https://graphql.org/
 
 
 **API Gateways**
+
 Ocelot - .NET Core API Gateway\
 https://github.com/ThreeMammals/Ocelot
 
