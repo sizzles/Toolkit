@@ -35,6 +35,15 @@ https://firebase.google.com/
 SQL Server Tools\
 https://github.com/rickbergfalk/sqlpad
 
+GraphQL - Query / API language from Facebook\
+https://graphql.org/
+
+
+**API Gateways**
+Ocelot - .NET Core API Gateway\
+https://github.com/ThreeMammals/Ocelot
+
+
 **Code Analysis + Quality**
 
 Sonar Qube\
