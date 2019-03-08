@@ -1,7 +1,7 @@
 # Toolkit
 Resources, packages and tools for increasing development speed
 
-**Angular**
+**Angular**\
 Angular Schematics - project boilerplate scaffolding\
 https://blog.angular.io/schematics-an-introduction-dc1dfbc2a2b2
 
